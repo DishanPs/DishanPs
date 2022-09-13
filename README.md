@@ -1,3 +1,8 @@
+<div id="header">
+  <img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" width="100"/>
+</div>
+
+
 ### Hi, I am Dishan De Silva 👋
 <hr>
 
