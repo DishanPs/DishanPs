@@ -1,5 +1,5 @@
 <div id="header">
-  <img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" width="100"/>
+  <img src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif" width="100"/>
 </div>
 
 
