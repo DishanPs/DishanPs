@@ -6,7 +6,7 @@
 ### Hi, I am Dishan De Silva 👋
 <hr>
 
-I am looking for a software engineering internship | Undergraduate
+Intern Software Engineer | Undergraduate
 
 - 🔭 I’m currently a software engineering undergraduate at SLIIT
 - 🌱 I’m currently learning React Native
