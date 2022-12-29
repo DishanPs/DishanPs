@@ -10,7 +10,7 @@ Intern Software Engineer | Undergraduate
 
 - 🔭 I’m currently a software engineering undergraduate at SLIIT
 - 🌱 I’m currently learning React Native
-- ❤️ I like to work with MERN Stack
+- ❤️ I like to work with React
 - 👨‍💻 I like to learn new programming languages & technologies
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/dishan-de-silva-8604181aa/"> LinkedIn </a>
 
@@ -27,6 +27,7 @@ Intern Software Engineer | Undergraduate
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
  
  </div>
 
