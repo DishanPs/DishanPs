@@ -8,7 +8,7 @@
 
 Intern Software Engineer | Undergraduate
 
-- 🔭 I’m currently a software engineering undergraduate at SLIIT
+- 🔭 I’m currently a Software Engineering Undergraduate at SLIIT
 - 🌱 I’m currently learning Flutter and Machine Learning
 - ❤️ I like to work with React/React Native
 - 👨‍💻 I like to learn new programming languages & technologies
