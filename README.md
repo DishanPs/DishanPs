@@ -6,7 +6,7 @@
 ### Hi, I am Dishan De Silva 👋
 <hr>
 
-Intern Software Engineer | Undergraduate
+Software Engineering Undergraduate
 
 - 🔭 I’m currently a Software Engineering Undergraduate at SLIIT
 - 🌱 I’m currently learning Flutter and Machine Learning
