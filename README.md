@@ -8,7 +8,6 @@
 
 Fresh Graduate | Software Development
 
-- 🔭 I’m currently a Final Year Software Engineering Undergraduate at SLIIT
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - ❤️ I like to work with different tools and technologies
 - 👨‍💻 I like to learn new programming languages & technologies
