@@ -6,7 +6,7 @@
 ### Hi, I am Dishan De Silva 👋
 <hr>
 
-Software Engineering Undergraduate
+Fresh Graduate | Software Development
 
 - 🔭 I’m currently a Final Year Software Engineering Undergraduate at SLIIT
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
