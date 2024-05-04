@@ -1,7 +1,3 @@
-<div id="header">
-  <img src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif" width="100"/>
-</div>
-
 
 ### Hi, I am Dishan De Silva 👋
 <hr>
